@@ -1,5 +1,3 @@
-:
-
 🛒 Consumer Shopping Trends: Behavioral & Demographic Segment Analysis
 📌 Project Overview
 Who is the most valuable consumer? This project analyzes shopping behaviors and demographic profiles of ~11.8K consumers across different city tiers. The analysis focuses on understanding how age correlates with income, spending habits, social media usage, and impulse buying. The ultimate goal is to identify high-value customer segments and propose targeted marketing strategies based on data-driven insights.
